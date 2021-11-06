@@ -4,18 +4,6 @@
 
 
 /* Custom default button */
-.btn-outline-secondary {
-  color: blueviolet;
-  border-color: blueviolet;
-  text-shadow: none; /* Prevent inheritance from `body` */
-}
-
-.btn-outline-secondary:hover{
-  background-color: blueviolet;
-  border-color: blueviolet;
-}
-
-
 /*
  * Base structure
  */
